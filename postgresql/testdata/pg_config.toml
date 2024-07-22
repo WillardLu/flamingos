@@ -1,0 +1,7 @@
+# PostgreSQL数据库连接参数配置文件
+host = "localhost"
+port = "5432"
+user = "starry"
+password = "belighT928s"
+dbname = "shangjiang_hospital"
+sslmode = "disable"
